@@ -2,7 +2,7 @@
 - this data is curated for AI experimenters to use to learn to work with museum data. Many of the records from The Met open access are not 100% open source and those records were filtered out
 - the goal for this dataset is to make it easy for others to explore the data from a HuggingFace space within the org
 - we are building a community of AI Reseachers and Domain experts. Join our commnunity and learn to run AI Experiments that teach you about the history of museums items from your own perspective.
-- setup with `!git lfs clone https://github.com/metmuseum/openaccess`
+- setup with `!git lfs clone https://github.com/automaticdata/openaccess_themet`
 
 ===================
 ## TheMet Overview from original Readme
